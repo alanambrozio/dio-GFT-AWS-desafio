@@ -2,9 +2,9 @@
 
 ##RELATORIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
-Data: 20/07/2025
-Empresa: Abstergo Industries
-Responsável: Alan César Ambrozio
+- Data: 20/07/2025
+- Empresa: Abstergo Industries
+- Responsável: Alan César Ambrozio
 
 ## Introdução
 Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries,  realizado por  Alan César Ambrozio. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
@@ -32,9 +32,9 @@ Etapa 3:
 A implemetação de ferramentas na empresa Abstergo Industries tem como esperado a otimização de recursos de computação, a redução de custos com armazenamento de dados e a simplificação do gerenciamento de bancos de dados, o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
 
 ## Anexos
-[EC2](https://aws.amazon.com/pt/ec2/autoscaling/) - Acessado em 20/07/2025
-[RDS](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html) - Acessado em 20/07/2025
-[S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html) - Acessado em 20/07/2025
+- [EC2](https://aws.amazon.com/pt/ec2/autoscaling/) - Acessado em 20/07/2025
+- [RDS](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html) - Acessado em 20/07/2025
+- [S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html) - Acessado em 20/07/2025
 
 
 Assinatura do Responsável pelo Projeto:
