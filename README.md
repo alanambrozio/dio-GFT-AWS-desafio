@@ -1,6 +1,6 @@
 # dio-GFT-AWS-desafio
 
-##RELATORIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
+## RELATORIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
 - Data: 20/07/2025
 - Empresa: Abstergo Industries
